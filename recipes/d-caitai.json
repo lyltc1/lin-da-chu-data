@@ -1,99 +1,111 @@
 {
-  "id": "d-caitai",
-  "title": "炒菜苔",
-  "tags": "",
-  "difficulty": 2,
-  "durationMin": 8,
-  "servings": 2,
-  "notes": "干辣椒的火候是关键，火候不够不出香，火候过了发黑。大蒜火候过了会发苦。",
-  "review": "有独特的胡辣香味和椒麻香，以及浓郁的蒜香，三种香气让简单的食材变得精彩和美味。",
-  "aliases": "",
-  "rating": 0,
-  "cookCount": 0,
-  "createdAt": 1792003650765,
-  "updatedAt": 1792003650782,
-  "coverPath": "images\/d-caitai\/cover.jpg",
-  "categoryId": "c-home",
-  "ingredients": [
-    {
-      "name": "菜苔",
-      "amount": "400",
-      "unit": "克",
-      "group": "主料"
-    },
-    {
-      "name": "大蒜",
-      "amount": "3",
-      "unit": "瓣",
-      "group": "辅料"
-    },
-    {
-      "name": "干辣椒",
-      "amount": "3",
-      "unit": "个",
-      "group": "辅料"
-    },
-    {
-      "name": "干花椒",
-      "amount": "15",
-      "unit": "粒",
-      "group": "辅料"
-    },
-    {
-      "name": "食用油",
-      "amount": "15",
-      "unit": "毫升",
-      "group": "调料"
-    },
-    {
-      "name": "盐",
-      "amount": "3",
-      "unit": "克",
-      "group": "调料"
-    },
-    {
-      "name": "味精",
-      "amount": "1",
-      "unit": "克",
-      "group": "调料"
-    },
-    {
-      "name": "鸡精",
-      "amount": "少许",
-      "unit": "",
-      "group": "调料"
-    }
-  ],
-  "steps": [
-    {
-      "text": "菜苔根部切十字花刀，再分成两半，下面那一半保留 3 片叶子；花打掉，比较老的皮切掉。",
-      "summary": "择菜",
-      "images": []
-    },
-    {
-      "text": "三颗大蒜切片，3 个干辣椒切成 1cm 的段，另备 15 粒干花椒。",
-      "summary": "备料",
-      "images": []
-    },
-    {
-      "text": "水烧开后下菜苔，焯 1 分钟~1 分半钟，捞出用冷水冲，可以保持爽脆口感。",
-      "summary": "焯水",
-      "images": []
-    },
-    {
-      "text": "放油之后马上放干花椒和干辣椒，干辣椒微微有点发黑的时候放大蒜。",
-      "summary": "爆香",
-      "images": []
-    },
-    {
-      "text": "放大蒜后马上放菜，开始翻炒。",
-      "summary": "炒菜",
-      "images": []
-    },
-    {
-      "text": "快熟的时候放盐，然后是味精和鸡精。",
-      "summary": "快熟时放盐、味精、鸡精",
-      "images": []
-    }
-  ]
+    "id":  "d-caitai",
+    "title":  "炒菜苔",
+    "tags":  "",
+    "difficulty":  2,
+    "durationMin":  8,
+    "servings":  2,
+    "notes":  "干辣椒的火候是关键，火候不够不出香，火候过了发黑。大蒜火候过了会发苦。",
+    "review":  "有独特的胡辣香味和椒麻香，以及浓郁的蒜香，三种香气让简单的食材变得精彩和美味。",
+    "aliases":  "",
+    "rating":  0,
+    "cookCount":  0,
+    "createdAt":  1792003650765,
+    "updatedAt":  1792005788833,
+    "coverPath":  "images/d-caitai/cover.jpg",
+    "categoryId":  "c-home",
+    "ingredients":  [
+                        {
+                            "name":  "菜苔",
+                            "amount":  "400",
+                            "unit":  "克",
+                            "group":  "主料"
+                        },
+                        {
+                            "name":  "大蒜",
+                            "amount":  "3",
+                            "unit":  "瓣",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "干辣椒",
+                            "amount":  "3",
+                            "unit":  "个",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "干花椒",
+                            "amount":  "15",
+                            "unit":  "粒",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "食用油",
+                            "amount":  "15",
+                            "unit":  "毫升",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "盐",
+                            "amount":  "3",
+                            "unit":  "克",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "味精",
+                            "amount":  "1",
+                            "unit":  "克",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "鸡精",
+                            "amount":  "少许",
+                            "unit":  "",
+                            "group":  "调料"
+                        }
+                    ],
+    "steps":  [
+                  {
+                      "text":  "菜苔根部切十字花刀，再分成两半，下面那一半保留 3 片叶子；花打掉，比较老的皮切掉。",
+                      "summary":  "择菜",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "三颗大蒜切片，3 个干辣椒切成 1cm 的段，另备 15 粒干花椒。",
+                      "summary":  "备料",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "水烧开后下菜苔，焯 1 分钟~1 分半钟，捞出用冷水冲，可以保持爽脆口感。",
+                      "summary":  "焯水",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "放油之后马上放干花椒和干辣椒，干辣椒微微有点发黑的时候放大蒜。",
+                      "summary":  "爆香",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "放大蒜后马上放菜，开始翻炒。",
+                      "summary":  "炒菜",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "快熟的时候放盐，然后是味精和鸡精。",
+                      "summary":  "快熟时放盐、味精、鸡精",
+                      "images":  [
+
+                                 ]
+                  }
+              ]
 }
