@@ -7,10 +7,12 @@
   "servings": 2,
   "notes": "",
   "review": "简单清爽，色泽翠绿，还原食物本身的滋味。",
+  "aliases": "",
   "rating": 0,
   "cookCount": 0,
-  "createdAt": 1792000489748,
-  "updatedAt": 1792000489750,
+  "createdAt": 1792003650765,
+  "updatedAt": 1792003650768,
+  "coverPath": "images\/d-spinach\/cover.jpg",
   "categoryId": "c-home",
   "ingredients": [
     {
@@ -76,8 +78,7 @@
     {
       "text": "油下锅烧至冒白烟，或默数十秒。喜欢辣味的话，可先下干花椒和干辣椒，干辣椒微微发黑时放大蒜爆香。",
       "summary": "热油",
-      "images": [],
-      "timerSec": 10
+      "images": []
     },
     {
       "text": "转动炒锅，让热油润过锅壁，避免菜叶粘锅。",
