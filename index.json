@@ -1,5 +1,55 @@
 {
   "version": 1,
-  "updatedAt": 0,
-  "dishes": []
+  "updatedAt": 1792004035351,
+  "dishes": [
+    {
+      "id": "d-shengcai",
+      "title": "清炒生菜",
+      "updatedAt": 1792003878925,
+      "deleted": false,
+      "sha": "8847b2974e584659a11a81cd60ee9438cbf7beb9"
+    },
+    {
+      "id": "d-caitai",
+      "title": "炒菜苔",
+      "updatedAt": 1792003650782,
+      "deleted": false,
+      "sha": "19fc1cd99440c481a43312570f90d8c36b430dfc"
+    },
+    {
+      "id": "d-kongxincai",
+      "title": "清炒空心菜",
+      "updatedAt": 1792003650778,
+      "deleted": false,
+      "sha": "0d5f6b9367c134dc8c755317730c0993c465bf06"
+    },
+    {
+      "id": "d-doufucai",
+      "title": "炒豆腐菜",
+      "updatedAt": 1792003650776,
+      "deleted": false,
+      "sha": "083553f411c186566df65da48e66e0f8d0bc6184"
+    },
+    {
+      "id": "d-lianbai",
+      "title": "手撕莲白",
+      "updatedAt": 1792003650774,
+      "deleted": false,
+      "sha": "518dd98bc01052b605ad15bccff18ac785caa9cb"
+    },
+    {
+      "id": "d-bokchoy",
+      "title": "炒小白菜",
+      "updatedAt": 1792003650771,
+      "deleted": false,
+      "sha": "10ec88dec592aa8fd7d157225d1283d20cc8181e"
+    },
+    {
+      "id": "d-spinach",
+      "title": "清炒菠菜",
+      "updatedAt": 1792003650768,
+      "deleted": false,
+      "sha": "19625b53169b2b258c982a8e0ac78e145f50a0ce"
+    }
+  ]
 }
