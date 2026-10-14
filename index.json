@@ -1,20 +1,20 @@
 {
     "version":  1,
-    "updatedAt":  1792005741957,
+    "updatedAt":  1792005788833,
     "dishes":  [
                    {
                        "id":  "d-shengcai",
                        "title":  "清炒生菜",
-                       "updatedAt":  1792003878925,
+                       "updatedAt":  1792005788833,
                        "deleted":  false,
-                       "sha":  "8847b2974e584659a11a81cd60ee9438cbf7beb9"
+                       "sha":  "b61724ab3c11929dd8929f523a735ea7ca40606d"
                    },
                    {
                        "id":  "d-caitai",
                        "title":  "炒菜苔",
-                       "updatedAt":  1792003650782,
+                       "updatedAt":  1792005788833,
                        "deleted":  false,
-                       "sha":  "19fc1cd99440c481a43312570f90d8c36b430dfc"
+                       "sha":  "fdc51eeff702c750e2c60eb8d683f058e344365b"
                    },
                    {
                        "id":  "d-kongxincai",
@@ -26,30 +26,30 @@
                    {
                        "id":  "d-doufucai",
                        "title":  "炒豆腐菜",
-                       "updatedAt":  1792003650776,
+                       "updatedAt":  1792005788833,
                        "deleted":  false,
-                       "sha":  "083553f411c186566df65da48e66e0f8d0bc6184"
+                       "sha":  "562358e0be6a2288d567e6e6b47c03ad9fe496a4"
                    },
                    {
                        "id":  "d-lianbai",
                        "title":  "手撕莲白",
-                       "updatedAt":  1792003650774,
+                       "updatedAt":  1792005788833,
                        "deleted":  false,
-                       "sha":  "518dd98bc01052b605ad15bccff18ac785caa9cb"
+                       "sha":  "a527a9471ca2c91443ce4c710cd1c08a8bdcb5c6"
                    },
                    {
                        "id":  "d-bokchoy",
                        "title":  "炒小白菜",
-                       "updatedAt":  1792003650771,
+                       "updatedAt":  1792005788833,
                        "deleted":  false,
-                       "sha":  "10ec88dec592aa8fd7d157225d1283d20cc8181e"
+                       "sha":  "0269e14e24589b2ffa2011124064142cddb517d3"
                    },
                    {
                        "id":  "d-spinach",
                        "title":  "清炒菠菜",
-                       "updatedAt":  1792003650768,
+                       "updatedAt":  1792005788833,
                        "deleted":  false,
-                       "sha":  "19625b53169b2b258c982a8e0ac78e145f50a0ce"
+                       "sha":  "0f11e4eaa81530b0c40457ccc32697f6714d9376"
                    }
                ]
 }
