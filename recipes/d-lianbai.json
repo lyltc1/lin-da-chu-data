@@ -1,0 +1,99 @@
+{
+  "id": "d-lianbai",
+  "title": "手撕莲白",
+  "tags": "",
+  "difficulty": 1,
+  "durationMin": 5,
+  "servings": 2,
+  "notes": "",
+  "review": "",
+  "aliases": "手撕包菜,炒包菜",
+  "rating": 0,
+  "cookCount": 0,
+  "createdAt": 1792003650765,
+  "updatedAt": 1792003650774,
+  "coverPath": "images\/d-lianbai\/cover.jpg",
+  "categoryId": "c-home",
+  "ingredients": [
+    {
+      "name": "包菜",
+      "amount": "500",
+      "unit": "克",
+      "group": "主料"
+    },
+    {
+      "name": "干辣椒",
+      "amount": "可选",
+      "unit": "",
+      "group": "辅料"
+    },
+    {
+      "name": "干花椒",
+      "amount": "可选",
+      "unit": "",
+      "group": "辅料"
+    },
+    {
+      "name": "大蒜",
+      "amount": "可选",
+      "unit": "",
+      "group": "辅料"
+    },
+    {
+      "name": "食用油",
+      "amount": "15",
+      "unit": "毫升",
+      "group": "调料"
+    },
+    {
+      "name": "盐",
+      "amount": "3",
+      "unit": "克",
+      "group": "调料"
+    },
+    {
+      "name": "味精",
+      "amount": "1",
+      "unit": "克",
+      "group": "调料"
+    },
+    {
+      "name": "鸡精",
+      "amount": "少许",
+      "unit": "",
+      "group": "调料"
+    }
+  ],
+  "steps": [
+    {
+      "text": "去掉质地老、卖相差的表面一两层；再把菜叶手撕下来，菜帮子不要，撕成半个手掌大的片，尽量均匀。",
+      "summary": "择菜",
+      "images": []
+    },
+    {
+      "text": "手张开轻轻抓洗，用滤网将菜捞出，重复 2~3 遍直至水清。",
+      "summary": "洗菜",
+      "images": []
+    },
+    {
+      "text": "油下锅烧至冒白烟，或默数十秒。喜欢辣味的话，可先下干花椒和干辣椒，干辣椒微微发黑时放大蒜爆香。",
+      "summary": "热油",
+      "images": []
+    },
+    {
+      "text": "转动炒锅，让热油润过锅壁，避免菜叶粘锅。",
+      "summary": "润锅",
+      "images": []
+    },
+    {
+      "text": "放菜要快速果断，低频翻炒：熟的往上翻，生的往下翻。包菜炒到菜叶发蔫、边缘微微透明即可。",
+      "summary": "炒菜",
+      "images": []
+    },
+    {
+      "text": "快熟时放盐，然后放味精和鸡精。",
+      "summary": "快熟时放盐、味精、鸡精",
+      "images": []
+    }
+  ]
+}
