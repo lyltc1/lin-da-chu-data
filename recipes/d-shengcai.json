@@ -1,82 +1,92 @@
 {
-  "id": "d-shengcai",
-  "title": "清炒生菜",
-  "tags": "",
-  "difficulty": 1,
-  "durationMin": 5,
-  "servings": 2,
-  "notes": "",
-  "review": "",
-  "aliases": "",
-  "rating": 0,
-  "cookCount": 0,
-  "createdAt": 1792003650765,
-  "updatedAt": 1792005834858,
-  "coverPath": "images\/d-shengcai\/cover.jpg",
-  "categoryId": "c-home",
-  "ingredients": [
-    {
-      "name": "生菜",
-      "amount": "400",
-      "unit": "克",
-      "group": "主料"
-    },
-    {
-      "name": "大蒜",
-      "amount": "可选",
-      "unit": "",
-      "group": "辅料"
-    },
-    {
-      "name": "食用油",
-      "amount": "15",
-      "unit": "毫升",
-      "group": "调料"
-    },
-    {
-      "name": "盐",
-      "amount": "3",
-      "unit": "克",
-      "group": "调料"
-    },
-    {
-      "name": "味精",
-      "amount": "1",
-      "unit": "克",
-      "group": "调料"
-    },
-    {
-      "name": "鸡精",
-      "amount": "少许",
-      "unit": "",
-      "group": "调料"
-    }
-  ],
-  "steps": [
-    {
-      "text": "把生菜每片叶子择下来，根部去掉。",
-      "summary": "择菜",
-      "images": []
-    },
-    {
-      "text": "手张开轻轻抓洗，用滤网将菜捞出，重复 2~3 遍直至水清。",
-      "summary": "洗菜",
-      "images": []
-    },
-    {
-      "text": "油下锅烧至冒白烟，或默数十秒。转动炒锅润锅。喜欢蒜香的话，可先下大蒜爆出香味。",
-      "summary": "热油",
-      "images": []
-    },
-    {
-      "text": "放菜要快速果断，低频翻炒：熟的往上翻，生的往下翻。生菜极易熟，菜叶一塌软就要起锅。",
-      "summary": "炒菜",
-      "images": []
-    },
-    {
-      "text": "快熟时放盐，然后放味精和鸡精。",
-      "summary": "放调料",
-      "images": []
-    }
-  ]
+    "id":  "d-shengcai",
+    "title":  "清炒生菜",
+    "tags":  "",
+    "difficulty":  1,
+    "durationMin":  5,
+    "servings":  2,
+    "notes":  "",
+    "review":  "",
+    "aliases":  "",
+    "rating":  0,
+    "cookCount":  0,
+    "createdAt":  1792003650765,
+    "updatedAt":  1792006044944,
+    "coverPath":  "images/d-shengcai/cover.jpg",
+    "categoryId":  "c-home",
+    "ingredients":  [
+                        {
+                            "name":  "生菜",
+                            "amount":  "400",
+                            "unit":  "克",
+                            "group":  "主料"
+                        },
+                        {
+                            "name":  "大蒜",
+                            "amount":  "3 瓣（可选）",
+                            "unit":  "",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "食用油",
+                            "amount":  "15",
+                            "unit":  "毫升",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "盐",
+                            "amount":  "3",
+                            "unit":  "克",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "味精",
+                            "amount":  "1",
+                            "unit":  "克",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "鸡精",
+                            "amount":  "少许",
+                            "unit":  "",
+                            "group":  "调料"
+                        }
+                    ],
+    "steps":  [
+                  {
+                      "text":  "把生菜每片叶子择下来，根部去掉。",
+                      "summary":  "择菜",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "手张开轻轻抓洗，用滤网将菜捞出，重复 2~3 遍直至水清。",
+                      "summary":  "洗菜",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "油下锅烧至冒白烟，或默数十秒。转动炒锅润锅。喜欢蒜香的话，可先下大蒜爆出香味。",
+                      "summary":  "热油",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "放菜要快速果断，低频翻炒：熟的往上翻，生的往下翻。生菜极易熟，菜叶一塌软就要起锅。",
+                      "summary":  "炒菜",
+                      "images":  [
+
+                                 ]
+                  },
+                  {
+                      "text":  "快熟时放盐，然后放味精和鸡精。",
+                      "summary":  "放调料",
+                      "images":  [
+
+                                 ]
+                  }
+              ]
 }
