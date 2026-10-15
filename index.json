@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updatedAt":  1792074887117,
+    "updatedAt":  1792075050729,
     "dishes":  [
                    {
                        "id":  "d-kongxincai",
@@ -19,9 +19,9 @@
                    {
                        "id":  "d-caitai",
                        "title":  "炒菜苔",
-                       "updatedAt":  1792074887117,
+                       "updatedAt":  1792075050729,
                        "deleted":  false,
-                       "sha":  "490edfb5981dd70ec255dd75fad15c7fa33f6930"
+                       "sha":  "b5b89487ec0ce679be6d0a888a30974ac2dfc94a"
                    },
                    {
                        "id":  "d-doufucai",
