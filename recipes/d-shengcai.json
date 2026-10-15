@@ -11,7 +11,7 @@
     "rating":  0,
     "cookCount":  0,
     "createdAt":  1792003650765,
-    "updatedAt":  1792074489824,
+    "updatedAt":  1792074887117,
     "coverPath":  "images/d-shengcai/cover.jpg",
     "categoryId":  "c-home",
     "ingredients":  [
@@ -22,15 +22,15 @@
                             "group":  "主料"
                         },
                         {
-                            "name":  "大蒜",
-                            "amount":  "3 瓣（可选）",
-                            "unit":  "",
-                            "group":  "调料"
-                        },
-                        {
                             "name":  "食用油",
                             "amount":  "15",
                             "unit":  "毫升",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "大蒜",
+                            "amount":  "3 瓣（可选）",
+                            "unit":  "",
                             "group":  "调料"
                         },
                         {
@@ -68,7 +68,7 @@
                                  ]
                   },
                   {
-                      "text":  "油下锅烧至冒白烟，或默数十秒。转动炒锅润锅。喜欢蒜香的话，可先下大蒜爆出香味。",
+                      "text":  "【食用油 15毫升】下锅烧至冒白烟，或默数十秒。转动炒锅润锅。喜欢蒜香的话，可先下【大蒜 3 瓣】爆出香味。",
                       "summary":  "热油",
                       "images":  [
 
@@ -82,7 +82,7 @@
                                  ]
                   },
                   {
-                      "text":  "快熟时放盐，然后放味精和鸡精。",
+                      "text":  "快熟时放【盐 3克】，然后放【味精 1克】和【鸡精 1克】。",
                       "summary":  "放调料",
                       "images":  [
 
