@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "updatedAt": 1792006098626,
+  "updatedAt": 1792072202307,
   "dishes": [
+    {
+      "id": "d-kongxincai",
+      "title": "清炒空心菜",
+      "updatedAt": 1792072193702,
+      "deleted": false,
+      "sha": "0a6ef22812503d3ef033cc2021bf6d684854c646"
+    },
     {
       "id": "d-shengcai",
       "title": "清炒生菜",
@@ -43,13 +50,6 @@
       "updatedAt": 1792006044944,
       "deleted": false,
       "sha": "d614a8955296d7780b583967cf89f063519d1a24"
-    },
-    {
-      "id": "d-kongxincai",
-      "title": "清炒空心菜",
-      "updatedAt": 1792006044944,
-      "deleted": false,
-      "sha": "78d99dd9c7e61555bca56fd442de9577b65c0809"
     }
   ]
 }
