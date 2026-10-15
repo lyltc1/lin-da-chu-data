@@ -11,7 +11,7 @@
     "rating":  0,
     "cookCount":  0,
     "createdAt":  1792003650765,
-    "updatedAt":  1792006044944,
+    "updatedAt":  1792074489824,
     "coverPath":  "images/d-caitai/cover.jpg",
     "categoryId":  "c-home",
     "ingredients":  [
@@ -59,8 +59,8 @@
                         },
                         {
                             "name":  "鸡精",
-                            "amount":  "少许",
-                            "unit":  "",
+                            "amount":  "1",
+                            "unit":  "克",
                             "group":  "调料"
                         }
                     ],
