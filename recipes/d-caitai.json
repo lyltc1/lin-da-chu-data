@@ -11,7 +11,7 @@
     "rating":  0,
     "cookCount":  0,
     "createdAt":  1792003650765,
-    "updatedAt":  1792074489824,
+    "updatedAt":  1792074887117,
     "coverPath":  "images/d-caitai/cover.jpg",
     "categoryId":  "c-home",
     "ingredients":  [
@@ -22,15 +22,9 @@
                             "group":  "主料"
                         },
                         {
-                            "name":  "大蒜",
-                            "amount":  "3",
-                            "unit":  "瓣",
-                            "group":  "调料"
-                        },
-                        {
-                            "name":  "干辣椒",
-                            "amount":  "3",
-                            "unit":  "个",
+                            "name":  "食用油",
+                            "amount":  "15",
+                            "unit":  "毫升",
                             "group":  "调料"
                         },
                         {
@@ -40,9 +34,15 @@
                             "group":  "调料"
                         },
                         {
-                            "name":  "食用油",
-                            "amount":  "15",
-                            "unit":  "毫升",
+                            "name":  "干辣椒",
+                            "amount":  "3",
+                            "unit":  "个",
+                            "group":  "调料"
+                        },
+                        {
+                            "name":  "大蒜",
+                            "amount":  "3",
+                            "unit":  "瓣",
                             "group":  "调料"
                         },
                         {
@@ -87,7 +87,7 @@
                                  ]
                   },
                   {
-                      "text":  "放油之后马上放干花椒和干辣椒，干辣椒微微有点发黑的时候放大蒜。",
+                      "text":  "【食用油 15毫升】下锅后马上放【干花椒 15 粒】和【干辣椒 3 个】，干辣椒微微有点发黑的时候放【大蒜 3 瓣】。",
                       "summary":  "爆香",
                       "images":  [
 
@@ -101,7 +101,7 @@
                                  ]
                   },
                   {
-                      "text":  "快熟的时候放盐，然后是味精和鸡精。",
+                      "text":  "快熟的时候放【盐 3克】，然后是【味精 1克】和【鸡精 1克】。",
                       "summary":  "快熟时放盐、味精、鸡精",
                       "images":  [
 
