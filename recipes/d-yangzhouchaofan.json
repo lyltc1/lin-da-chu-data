@@ -1,0 +1,84 @@
+{
+    "id": "d-yangzhouchaofan",
+    "title": "扬州炒饭",
+    "tags": "",
+    "durationMin": 15,
+    "notes": "",
+    "review": "色泽丰富、香气扑鼻、清香爽口，口感有酥有脆有层次",
+    "aliases": "",
+    "rating": 0,
+    "cookCount": 0,
+    "createdAt": 1792169113815,
+    "updatedAt": 1792169113815,
+    "categoryId": "c-meat",
+    "ingredients": [
+        { "name": "黄瓜", "amount": "0.5", "unit": "根", "group": "主料" },
+        { "name": "胡萝卜", "amount": "0.33", "unit": "根", "group": "主料" },
+        { "name": "火腿肠", "amount": "适量", "unit": "", "group": "主料" },
+        { "name": "鸡蛋", "amount": "2", "unit": "个", "group": "主料" },
+        { "name": "米饭", "amount": "1", "unit": "碗", "group": "主料" },
+        { "name": "盐", "amount": "适量", "unit": "", "group": "调料" },
+        { "name": "食用油", "amount": "15", "unit": "毫升", "group": "调料" },
+        { "name": "姜", "amount": "3", "unit": "片", "group": "调料" },
+        { "name": "味精", "amount": "1", "unit": "克", "group": "调料" },
+        { "name": "鸡精", "amount": "1", "unit": "克", "group": "调料" },
+        { "name": "小葱", "amount": "6", "unit": "根", "group": "调料" }
+    ],
+    "steps": [
+        {
+            "summary": "切黄瓜丁",
+            "text": "【黄瓜 0.5 根】洗净，去头去尾，切成 6 毫米大小的丁。",
+            "images": []
+        },
+        {
+            "summary": "切胡萝卜丁",
+            "text": "【胡萝卜 1/3 根】洗净，切成 6 毫米大小的丁。",
+            "images": []
+        },
+        {
+            "summary": "切火腿肠丁",
+            "text": "【火腿肠 适量】切成 6 毫米大小的丁。",
+            "images": []
+        },
+        {
+            "summary": "切姜末",
+            "text": "取【姜 3 片】（切得越薄越好）切成姜末。",
+            "images": []
+        },
+        {
+            "summary": "切葱花",
+            "text": "【小葱 6 根】切成 2~3 毫米的葱花。",
+            "images": []
+        },
+        {
+            "summary": "打蛋液",
+            "text": "【鸡蛋 2 个】打入碗中，放入【盐 1 克】搅匀。",
+            "images": []
+        },
+        {
+            "summary": "煎鸡蛋",
+            "text": "【食用油 15 毫升】大火烧 40 秒后倒入蛋液，看到周围蛋液迅速蓬松，两面煎好后捞出。",
+            "images": []
+        },
+        {
+            "summary": "炒配料",
+            "text": "锅中剩油，下入黄瓜丁、胡萝卜丁和火腿肠丁翻炒 20 秒，放入姜末再炒 40 秒。",
+            "images": []
+        },
+        {
+            "summary": "下饭翻炒",
+            "text": "放入【米饭 1 碗】和煎好的鸡蛋，用锅铲把鸡蛋剁碎，继续翻炒 1 分钟。",
+            "images": []
+        },
+        {
+            "summary": "调味",
+            "text": "把【味精 1 克】、【鸡精 1 克】和少量盐均匀撒入锅中，翻炒均匀。",
+            "images": []
+        },
+        {
+            "summary": "出锅",
+            "text": "起锅前放入葱花，翻炒均匀即可。",
+            "images": []
+        }
+    ]
+}
