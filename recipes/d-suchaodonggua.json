@@ -9,8 +9,9 @@
     "rating": 0,
     "cookCount": 0,
     "createdAt": 1792166161612,
-    "updatedAt": 1792166161612,
+    "updatedAt": 1792170020170,
     "categoryId": "c-home",
+    "coverPath": "images/d-suchaodonggua/cover.jpg",
     "ingredients": [
         { "name": "冬瓜", "amount": "适量", "unit": "", "group": "主料" },
         { "name": "食用油", "amount": "15", "unit": "毫升", "group": "调料" },
