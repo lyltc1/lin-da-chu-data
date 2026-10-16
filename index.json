@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updatedAt":  1792075159026,
+    "updatedAt":  1792165716724,
     "dishes":  [
                    {
                        "id":  "d-kongxincai",
@@ -50,6 +50,27 @@
                        "updatedAt":  1792075159026,
                        "deleted":  false,
                        "sha":  "79b870a913d75a735f9552967d785d4c080347d0"
+                   },
+                   {
+                       "id":  "d-nanguatang",
+                       "title":  "南瓜汤",
+                       "updatedAt":  1792165716724,
+                       "deleted":  false,
+                       "sha":  "7fc6066b9523f6d7ec11432eb11989c6e3468ae1"
+                   },
+                   {
+                       "id":  "d-dongguatang",
+                       "title":  "冬瓜汤",
+                       "updatedAt":  1792165716724,
+                       "deleted":  false,
+                       "sha":  "d9502521e5a1ade3428a772ceb7b5e4076ed42ef"
+                   },
+                   {
+                       "id":  "d-yangroudongguatang",
+                       "title":  "羊肉冬瓜汤",
+                       "updatedAt":  1792165716724,
+                       "deleted":  false,
+                       "sha":  "413f743115ae44fdb5e2fe678caf3b6ac6fbadbe"
                    }
                ]
 }
