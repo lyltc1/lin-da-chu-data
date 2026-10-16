@@ -1,0 +1,56 @@
+{
+    "id": "d-dongguatang",
+    "title": "冬瓜汤",
+    "tags": "汤",
+    "durationMin": 10,
+    "notes": "汤里放姜片有提香增鲜的作用。",
+    "review": "",
+    "aliases": "",
+    "rating": 0,
+    "cookCount": 0,
+    "createdAt": 1792165676857,
+    "updatedAt": 1792165676857,
+    "categoryId": "c-soup",
+    "ingredients": [
+        { "name": "冬瓜", "amount": "适量", "unit": "", "group": "主料" },
+        { "name": "水", "amount": "适量", "unit": "", "group": "主料" },
+        { "name": "小葱", "amount": "5", "unit": "根", "group": "调料" },
+        { "name": "姜", "amount": "3", "unit": "片", "group": "调料" },
+        { "name": "盐", "amount": "1.5", "unit": "克", "group": "调料" },
+        { "name": "鸡精", "amount": "1", "unit": "克", "group": "调料" },
+        { "name": "味精", "amount": "1", "unit": "克", "group": "调料" },
+        { "name": "食用油", "amount": "5", "unit": "毫升（可选）", "group": "调料" }
+    ],
+    "steps": [
+        {
+            "summary": "处理冬瓜",
+            "text": "冬瓜用刀去皮，切两半，去掉瓤，切成 0.5~1 厘米厚的片。",
+            "images": []
+        },
+        {
+            "summary": "切葱花和姜片",
+            "text": "5 根小葱切成 2~3 毫米的葱花；姜切三四片，约 1 毫米厚，带皮。",
+            "images": []
+        },
+        {
+            "summary": "大火烧水",
+            "text": "开 4 档大火，锅中加水（水量就是要盛汤的容器装的水量），下入冬瓜片和【姜 3 片】，盖上锅盖，约 2 分钟把水烧开。",
+            "images": []
+        },
+        {
+            "summary": "小火慢煮",
+            "text": "转 2 档中小火慢煮 5 分钟。用筷子戳冬瓜，没有阻力就是煮好了。",
+            "images": []
+        },
+        {
+            "summary": "调味",
+            "text": "加入【盐 1.5 克】、【鸡精 1 克】、【味精 1 克】和【食用油 5 毫升】（可选），搅拌均匀。",
+            "images": []
+        },
+        {
+            "summary": "出锅",
+            "text": "出锅后撒上少许葱花。",
+            "images": []
+        }
+    ]
+}
