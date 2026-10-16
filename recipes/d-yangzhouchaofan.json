@@ -10,7 +10,7 @@
     "cookCount": 0,
     "createdAt": 1792169113815,
     "updatedAt": 1792169113815,
-    "categoryId": "c-meat",
+    "categoryId": "c-rice",
     "ingredients": [
         { "name": "黄瓜", "amount": "0.5", "unit": "根", "group": "主料" },
         { "name": "胡萝卜", "amount": "0.33", "unit": "根", "group": "主料" },
