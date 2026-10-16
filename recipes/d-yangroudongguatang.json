@@ -9,8 +9,9 @@
     "rating": 0,
     "cookCount": 0,
     "createdAt": 1792165716724,
-    "updatedAt": 1792165716724,
+    "updatedAt": 1792170020170,
     "categoryId": "c-soup",
+    "coverPath": "images/d-yangroudongguatang/cover.jpg",
     "ingredients": [
         { "name": "冬瓜", "amount": "适量", "unit": "", "group": "主料" },
         { "name": "羊肉片", "amount": "适量", "unit": "", "group": "主料" },
