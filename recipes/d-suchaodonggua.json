@@ -1,0 +1,56 @@
+{
+    "id": "d-suchaodonggua",
+    "title": "素炒冬瓜",
+    "tags": "",
+    "durationMin": 10,
+    "notes": "",
+    "review": "咸鲜软糯、微脆入味",
+    "aliases": "",
+    "rating": 0,
+    "cookCount": 0,
+    "createdAt": 1792166161612,
+    "updatedAt": 1792166161612,
+    "categoryId": "c-home",
+    "ingredients": [
+        { "name": "冬瓜", "amount": "适量", "unit": "", "group": "主料" },
+        { "name": "食用油", "amount": "15", "unit": "毫升", "group": "调料" },
+        { "name": "水", "amount": "适量", "unit": "", "group": "调料" },
+        { "name": "蚝油", "amount": "1", "unit": "小勺", "group": "调料" },
+        { "name": "生抽", "amount": "0.5", "unit": "勺", "group": "调料" },
+        { "name": "盐", "amount": "3", "unit": "克", "group": "调料" },
+        { "name": "味精", "amount": "1", "unit": "克", "group": "调料" },
+        { "name": "鸡精", "amount": "1", "unit": "克", "group": "调料" }
+    ],
+    "steps": [
+        {
+            "summary": "切冬瓜",
+            "text": "冬瓜切成 0.3 厘米厚的片。",
+            "images": []
+        },
+        {
+            "summary": "大火热油",
+            "text": "大火热油，放入冬瓜翻炒。",
+            "images": []
+        },
+        {
+            "summary": "补水防糊",
+            "text": "炒到中期可以加一点水，避免糊锅。",
+            "images": []
+        },
+        {
+            "summary": "盖盖焖",
+            "text": "后面冬瓜会出水，出水之后盖上锅盖焖一下，每一面焖一分钟就翻面。",
+            "images": []
+        },
+        {
+            "summary": "加蚝油生抽",
+            "text": "放入【蚝油 1 小勺】和【生抽 0.5 勺】，翻炒均匀。",
+            "images": []
+        },
+        {
+            "summary": "调味出锅",
+            "text": "转中火，加入【盐 3 克】、【味精 1 克】、【鸡精 1 克】，翻炒均匀后出锅。",
+            "images": []
+        }
+    ]
+}
