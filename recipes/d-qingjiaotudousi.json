@@ -9,8 +9,9 @@
     "rating": 0,
     "cookCount": 0,
     "createdAt": 1792167664256,
-    "updatedAt": 1792167664256,
+    "updatedAt": 1792170020170,
     "categoryId": "c-home",
+    "coverPath": "images/d-qingjiaotudousi/cover.jpg",
     "ingredients": [
         { "name": "土豆", "amount": "2", "unit": "颗", "group": "主料" },
         { "name": "青椒", "amount": "3", "unit": "个", "group": "主料" },
