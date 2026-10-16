@@ -1,0 +1,55 @@
+{
+    "id": "d-qingjiaotudousi",
+    "title": "青椒炒土豆丝",
+    "tags": "",
+    "durationMin": 12,
+    "notes": "",
+    "review": "清爽鲜香",
+    "aliases": "",
+    "rating": 0,
+    "cookCount": 0,
+    "createdAt": 1792167664256,
+    "updatedAt": 1792167664256,
+    "categoryId": "c-home",
+    "ingredients": [
+        { "name": "土豆", "amount": "2", "unit": "颗", "group": "主料" },
+        { "name": "青椒", "amount": "3", "unit": "个", "group": "主料" },
+        { "name": "食用油", "amount": "15", "unit": "毫升", "group": "调料" },
+        { "name": "蒜", "amount": "2", "unit": "瓣", "group": "调料" },
+        { "name": "盐", "amount": "0.5", "unit": "勺", "group": "调料" },
+        { "name": "味精", "amount": "0.3", "unit": "勺", "group": "调料" },
+        { "name": "鸡精", "amount": "0.3", "unit": "勺", "group": "调料" }
+    ],
+    "steps": [
+        {
+            "summary": "切土豆丝",
+            "text": "【土豆 2 颗】去皮后清洗干净，切成 2 毫米的丝，切好放清水里泡着防止变色。",
+            "images": []
+        },
+        {
+            "summary": "切配菜",
+            "text": "【青椒 3 个】切成丝，【蒜 2 瓣】切成片。",
+            "images": []
+        },
+        {
+            "summary": "淘洗淀粉",
+            "text": "炒之前把土豆丝在清水中淘洗一下，洗去土豆上的淀粉，炒出来的土豆丝口感更爽脆，不会黏黏糊糊。",
+            "images": []
+        },
+        {
+            "summary": "大火爆香",
+            "text": "大火 20 秒把【食用油 15 毫升】烧热，放蒜，马上放入土豆丝和青椒丝，大火翻炒。",
+            "images": []
+        },
+        {
+            "summary": "炒至透明",
+            "text": "约两分钟后土豆丝变透明，就说明炒到位了。",
+            "images": []
+        },
+        {
+            "summary": "调味出锅",
+            "text": "放入【盐 0.5 勺】、【味精 0.3 勺】和【鸡精 0.3 勺】，翻炒均匀后出锅。",
+            "images": []
+        }
+    ]
+}
