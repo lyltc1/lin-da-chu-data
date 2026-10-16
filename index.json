@@ -1,76 +1,83 @@
 {
-  "version": 1,
-  "updatedAt": 1792165778738,
-  "dishes": [
-    {
-      "id": "d-nanguatang",
-      "title": "南瓜汤",
-      "updatedAt": 1792165716724,
-      "deleted": false,
-      "sha": "7fc6066b9523f6d7ec11432eb11989c6e3468ae1"
-    },
-    {
-      "id": "d-dongguatang",
-      "title": "冬瓜汤",
-      "updatedAt": 1792165716724,
-      "deleted": false,
-      "sha": "d9502521e5a1ade3428a772ceb7b5e4076ed42ef"
-    },
-    {
-      "id": "d-yangroudongguatang",
-      "title": "羊肉冬瓜汤",
-      "updatedAt": 1792165716724,
-      "deleted": false,
-      "sha": "413f743115ae44fdb5e2fe678caf3b6ac6fbadbe"
-    },
-    {
-      "id": "d-kongxincai",
-      "title": "清炒空心菜",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "8bc72e05d17d6272ec48c3e9fd72a6d4d24e392d"
-    },
-    {
-      "id": "d-shengcai",
-      "title": "清炒生菜",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "c21fe41495cad98dec10b8de1002f7af054844ba"
-    },
-    {
-      "id": "d-caitai",
-      "title": "炒菜苔",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "fa9d6eb3151cf404f26e753aae4025938253c29f"
-    },
-    {
-      "id": "d-doufucai",
-      "title": "炒豆腐菜",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "a5afe4ecfd81ad4afceed5e9409b61f14f9ae772"
-    },
-    {
-      "id": "d-lianbai",
-      "title": "手撕莲白",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "0034803565b4685b26c82cdbd4dee14d348e3f0a"
-    },
-    {
-      "id": "d-bokchoy",
-      "title": "炒小白菜",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "b74436a5ace423d200e46e43cdcfe10ee45aa386"
-    },
-    {
-      "id": "d-spinach",
-      "title": "清炒菠菜",
-      "updatedAt": 1792075159026,
-      "deleted": false,
-      "sha": "79b870a913d75a735f9552967d785d4c080347d0"
-    }
-  ]
+    "version":  1,
+    "updatedAt":  1792166161612,
+    "dishes":  [
+                   {
+                       "id":  "d-nanguatang",
+                       "title":  "南瓜汤",
+                       "updatedAt":  1792165716724,
+                       "deleted":  false,
+                       "sha":  "7fc6066b9523f6d7ec11432eb11989c6e3468ae1"
+                   },
+                   {
+                       "id":  "d-dongguatang",
+                       "title":  "冬瓜汤",
+                       "updatedAt":  1792165716724,
+                       "deleted":  false,
+                       "sha":  "d9502521e5a1ade3428a772ceb7b5e4076ed42ef"
+                   },
+                   {
+                       "id":  "d-yangroudongguatang",
+                       "title":  "羊肉冬瓜汤",
+                       "updatedAt":  1792165716724,
+                       "deleted":  false,
+                       "sha":  "413f743115ae44fdb5e2fe678caf3b6ac6fbadbe"
+                   },
+                   {
+                       "id":  "d-kongxincai",
+                       "title":  "清炒空心菜",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "8bc72e05d17d6272ec48c3e9fd72a6d4d24e392d"
+                   },
+                   {
+                       "id":  "d-shengcai",
+                       "title":  "清炒生菜",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "c21fe41495cad98dec10b8de1002f7af054844ba"
+                   },
+                   {
+                       "id":  "d-caitai",
+                       "title":  "炒菜苔",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "fa9d6eb3151cf404f26e753aae4025938253c29f"
+                   },
+                   {
+                       "id":  "d-doufucai",
+                       "title":  "炒豆腐菜",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "a5afe4ecfd81ad4afceed5e9409b61f14f9ae772"
+                   },
+                   {
+                       "id":  "d-lianbai",
+                       "title":  "手撕莲白",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "0034803565b4685b26c82cdbd4dee14d348e3f0a"
+                   },
+                   {
+                       "id":  "d-bokchoy",
+                       "title":  "炒小白菜",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "b74436a5ace423d200e46e43cdcfe10ee45aa386"
+                   },
+                   {
+                       "id":  "d-spinach",
+                       "title":  "清炒菠菜",
+                       "updatedAt":  1792075159026,
+                       "deleted":  false,
+                       "sha":  "79b870a913d75a735f9552967d785d4c080347d0"
+                   },
+                   {
+                       "id":  "d-suchaodonggua",
+                       "title":  "素炒冬瓜",
+                       "updatedAt":  1792166161612,
+                       "deleted":  false,
+                       "sha":  "4320b5500f533074ae2332497aa37a40ce20a34c"
+                   }
+               ]
 }
